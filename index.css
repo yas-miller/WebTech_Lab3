@@ -1,0 +1,19 @@
+div, h2
+{
+    width: 40%;
+    alignment: center;
+}
+td
+{
+    width: auto;
+    height: 25px;
+}
+.error_red
+{
+    color: red;
+    border-color: red;
+}
+.input_text
+{
+    width: 50%;
+}

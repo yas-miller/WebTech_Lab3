@@ -1,0 +1,7 @@
+GET https://httpbin.org/ip
+Accept: application/json
+
+<> 2020-03-25T082501.200.json
+
+###
+
